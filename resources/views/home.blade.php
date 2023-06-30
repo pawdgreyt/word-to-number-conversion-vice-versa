@@ -13,7 +13,7 @@
     <div class="container w-50 mt-5">
         <div class="card">
             <div class="card-body">
-                <h3>Word Number Conversion</h3>
+                <h3>Word To Number Conversion</h3>
                 <form action="{{ route('store') }}" method="POST" autocomplete="off">
                     @csrf
                     @if ($errors->has('user_input'))

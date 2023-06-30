@@ -30,7 +30,7 @@
                         <tr>
                             <th>Input</th>
                             <th>WN CONVERSION</th>
-                            <th>USD CONVERSION</th>
+                            <th>USD VALUE</th>
                         </tr>
                     </thead>
                     <tbody>

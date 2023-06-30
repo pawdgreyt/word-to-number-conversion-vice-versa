@@ -28,7 +28,7 @@
                 <table class="table table-responsive">
                     <thead>
                         <tr>
-                            <th>User Input</th>
+                            <th>Input</th>
                             <th>WN CONVERSION</th>
                             <th>USD CONVERSION</th>
                         </tr>

@@ -22,33 +22,40 @@ cd word-to-number-conversion-vice-versa
 
 Use Composer to install the project dependencies.
 
+```bash
 composer install
+```
 
 ### 3. Set up the environment
 
 Create a copy of the `.env.example` file and rename it to `.env`. Update the configuration options like database connection, app URL, etc., in the `.env` file according to your local setup.
 
+```bash
 cp .env.example .env
+```
 
 ### 4. Generate the application key
 
 Run the following command to generate the application key for your Laravel project.
 
+```bash
 php artisan key:generate
+```
 
 ### 5. Migrate the database
 
 Run the migrations to set up the database schema.
 
+```bash
 php artisan migrate
+```
 
 ### 6. Serve the application
 
 Start the local development server.
-
+```bash
 php artisan serve
-
-
+```
 The application should now be accessible at `http://localhost:8000`.
 
 ## Usage

@@ -22,6 +22,8 @@ cd word-to-number-conversion-vice-versa
 
 Use Composer to install the project dependencies.
 
+composer install
+
 ### 3. Set up the environment
 
 Create a copy of the `.env.example` file and rename it to `.env`. Update the configuration options like database connection, app URL, etc., in the `.env` file according to your local setup.

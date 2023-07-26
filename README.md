@@ -1,6 +1,6 @@
 # Word-to-Number Conversion System
 
-The Word-to-Number Conversion System is a Laravel project that allows users to convert words representing numbers into their numerical form, and vice versa. Additionally, the system can convert the PHP value to USD equivalent of the converted number or word.
+The Word-to-Number Conversion System is a Laravel project that allows users to convert words representing numbers into their numerical form, and vice versa. Additionally, the system can convert the PHP value to USD equivalent of the converted number or word using Exchange Rate API.
 
 ## Installation
 
